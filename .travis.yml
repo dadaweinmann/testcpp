@@ -27,7 +27,7 @@ addons:
     - clang-3.7
     - valgrind
 os:
-  - linux
+  - win
   - osx
 language: cpp
 compiler:
